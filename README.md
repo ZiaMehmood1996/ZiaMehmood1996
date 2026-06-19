@@ -1,7 +1,7 @@
 # Hi there, I'm Zia 👋  
 
 🎓 Master's Student in Data Science | BS in Software Engineering  
-📊 Aspiring **Data Analyst | Data Scientist | ML Engineer**  
+📊 **Data Analyst | Data Scientist | ML Engineer**  
 💻 Skilled in **Python, SQL, Power BI, Machine Learning, Computer Vision**  
 🌍 Based in Islamabad, Pakistan | Open to global freelance projects  
 
