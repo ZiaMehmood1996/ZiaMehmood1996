@@ -1,55 +1,150 @@
-# Hi there, I'm Zia 👋  
+# Hi there, I'm Zia Mehmood 👋
 
-🎓 Master's Student in Data Science | BS in Software Engineering  
-📊 **Data Analyst | Data Scientist | ML Engineer**  
-💻 Skilled in **Python, SQL, Power BI, Machine Learning, Computer Vision**  
-🌍 Based in Islamabad, Pakistan | Open to global freelance projects  
-
----
-
-## 🚀 What I'm Working On
-- 🔍 **Insurance Fraud Detection** – ML + analytics pipeline  
-- 📈 **AI-Powered Student Engagement Insights** – predictive modeling & EDA  
-- ✋ **Visual Recognition of Pakistan Sign Language** – computer vision thesis  
+🎓 MS Data Science Candidate | BS Software Engineering
+📊 Data Analyst | Analytics Engineer | Data Science Enthusiast
+🏅 Microsoft Fabric Data Engineer Associate (DP-700)
+👨‍🏫 Lab Instructor (ANN & COAL Labs) at SZABIST Islamabad
+📍 Islamabad, Pakistan
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, SQL, JavaScript (basic)  
-- **Data Science & ML:** Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow  
-- **Visualization & BI:** Power BI, Matplotlib, Seaborn  
-- **Databases:** MySQL, PostgreSQL, SQLite  
-- **Tools:** Git, VS Code, Jupyter, Excel, Docker (basics)  
+## 🚀 About Me
+
+I'm a data professional passionate about transforming raw data into actionable insights and intelligent business solutions.
+
+My primary interests include:
+
+* Data Analytics & Business Intelligence
+* Data Engineering & Microsoft Fabric
+* Machine Learning & Predictive Analytics
+* AI-Powered Data Applications
+* Healthcare & Operational Analytics
+
+Currently pursuing my Master's in Data Science while building real-world analytics solutions and preparing for advanced data engineering roles.
 
 ---
 
-## 📂 Featured Projects
-🔹 [Insurance Fraud Detection](#) – ML classification + dashboards  
-🔹 [Student Engagement Insights](#) – data preprocessing, EDA, predictions  
-🔹 [Sign Language Recognition](#) – video dataset annotation & CNN models  
-🔹 [Sales Analytics Dashboard](#) – Power BI interactive dashboard  
+## 🛠️ Technical Skills
 
-👉 Check the **Pinned Repositories** below for details.  
+### Data Analytics
+
+* SQL
+* Excel
+* Power BI
+* Data Visualization
+* Exploratory Data Analysis (EDA)
+* KPI Dashboard Development
+
+### Programming
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Plotly
+* Streamlit
+
+### Data Engineering
+
+* Microsoft Fabric
+* Data Warehousing
+* ETL Pipelines
+* PostgreSQL
+* SQLite
+
+### Machine Learning
+
+* Scikit-Learn
+* TensorFlow
+* PyTorch
+* Model Evaluation
+* Feature Engineering
+
+### Tools
+
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* Docker (Basic)
 
 ---
 
-## 📊 GitHub Stats
-![Zia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiaMehmood&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiaMehmood&layout=compact&theme=tokyonight)  
+## 🌟 Featured Projects
+
+### 🏠 AI Property Operations Analytics Platform
+
+A cloud-deployed analytics platform for property portfolio monitoring and operational insights.
+
+#### Features
+
+* CSV/Excel Data Upload
+* Data Quality Assessment
+* KPI Dashboard
+* Revenue & Occupancy Analytics
+* Property Ranking
+* Property Health Score
+* Executive Summary Generation
+
+🔗 Live Demo:
+https://ai-property-operations-platform-kjxp3wh6u42ercfreb88d7.streamlit.app/
+
+🔗 Source Code:
+https://github.com/ZiaMehmood1996/ai-property-operations-platform
 
 ---
 
-## 🌱 Currently Exploring
-- Advanced ML & Deep Learning (PyTorch, TensorFlow)  
-- Freelance Data Analytics projects (Python + Power BI)  
-- Data-driven solutions for business & healthcare  
+### 🩺 Temporal Deep Learning for Early Prediction of Post-Operative Sepsis
+
+Master's Thesis Project
+
+Research focused on developing temporal deep learning models for early prediction of post-operative sepsis using Electronic Health Records (EHR) datasets.
+
+Technologies:
+
+* Python
+* TensorFlow
+* LSTM
+* GRU
+* Transformer Models
+* MIMIC-IV Dataset
+
+---
+
+## 📚 Certifications
+
+🏅 Microsoft Certified: Fabric Data Engineer Associate (DP-700)
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced SQL
+* Microsoft Fabric Architecture
+* Data Engineering Best Practices
+* Analytics Engineering
+* AI-Powered Data Applications
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiaMehmood1996\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiaMehmood1996\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/ziamehmood)  
-- [GitHub](https://github.com/ZiaMehmood)  
-- ✉️ Email: *ziamehmood473@gmail.com*  
+
+LinkedIn:
+https://www.linkedin.com/in/ziamehmood/
+
+GitHub:
+https://github.com/ZiaMehmood1996
+
+Email:
+[ziamehmood473@gmail.com](mailto:ziamehmood473@gmail.com)
 
 ---
-⭐️ *"I love turning raw data into insights and AI-driven solutions that make an impact."*  
+
+⭐ "Turning data into insights, and insights into decisions."
